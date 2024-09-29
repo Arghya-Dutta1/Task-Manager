@@ -15,5 +15,39 @@ Category: The category to which the task belongs (e.g., Work, Personal, Study, e
 Priority: Task priority on a scale of 1 (highest) to 5 (lowest).
 Due Date: The due date of the task in YYYY-MM-DD format.
 
+Example
+
+Adding a Task:
+
+```console
+Enter task description: Complete project report
+Choose a category:
+1. Work
+2. Personal
+3. Study
+4. Shopping
+5. Other
+Enter priority (1-5): 2
+Enter due date (YYYY-MM-DD): 2024-10-01
+```
+
+Listing Tasks:
+
+```console
+Task 1:
+Description: Complete project report
+Category: Work
+Priority: 2
+Due Date: 2024-10-01
+---------------------------
+No past due tasks.
+```
+
+Removing a Task:
+
+```console
+Enter task index to remove: 1
+```
+
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
