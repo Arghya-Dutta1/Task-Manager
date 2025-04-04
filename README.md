@@ -49,5 +49,9 @@ Removing a Task:
 Enter task index to remove: 1
 ```
 
+## Screenshot
+![image](https://github.com/user-attachments/assets/bca5e960-062f-41df-8707-86ea6897f317)
+
+
 # License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
